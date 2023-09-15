@@ -3,6 +3,7 @@ Telefonumdaki dosyalardan resimleri çekip firestoreda storage'a atıyorum. Recy
 
   
 recyclerview:
+
 ![image](https://github.com/Adl1coder/Task1InInternship/assets/93915867/676321c8-907d-457f-b252-a2914b3e7823)
 
 arayüz:       
